@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "unclecode",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "leftpad": "0.0.1",
+    "lodash": "^4.17.11",
+    "lodash.merge": "^4.6.1"
+  }
 }
